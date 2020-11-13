@@ -1,0 +1,14 @@
+{
+    "name": "tombroucke/otomaties-disable-plugin-installation",
+    "description": "Otomaties Disable Plugin Installation",
+    "type": "wordpress-muplugin",
+    "authors": [
+        {
+            "name": "Tom Broucke",
+            "email": "tom@tombroucke.be"
+        }
+    ],
+    "require": {
+        "composer/installers": "^1.0"
+    }
+}
